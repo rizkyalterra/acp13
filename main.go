@@ -4,7 +4,11 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello World")
+	fmt.Println("Hello World2")
 	// fixing bug
+	// 1
+	// 2
+	// 3
 	fmt.Println(fibo(50)) // fibo(3) + fibo(2)
 }
 
