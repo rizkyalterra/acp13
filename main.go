@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("Hello World")
 	fmt.Println(fibo(50)) // fibo(3) + fibo(2)
 }
 
