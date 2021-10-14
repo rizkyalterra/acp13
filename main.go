@@ -9,6 +9,7 @@ func main() {
 	// 1
 	// 2
 	// 3
+	// 5
 	fmt.Println(fibo(50)) // fibo(3) + fibo(2)
 }
 
