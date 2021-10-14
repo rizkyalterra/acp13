@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("Feature A")
 	fmt.Println("Hello World")
 	fmt.Println("Hello World2")
 	// fixing bug
